@@ -2,9 +2,14 @@
 <br>
 
 
-[![e-mail](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weverton-nascimento-443381203/)
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weverton-nascimento-443381203/)
+<a href = "mailto:wevertonbnascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wevertonbn/)
+
 
 ![wevba GitHub stats](https://github-readme-stats.vercel.app/api?username=wevba&show_icons=true&theme=tokyonight)
+<img height="195em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevba&layout=compact&langs_count=7&theme=tokyonight"/>
+
 
 ### Tecnologias que eu uso no meu dia a dia
 <br>
@@ -21,7 +26,5 @@
 
 ## Descobrindo o mundo infinito da tecnologia.
 
-<br>
 
-## contato: wevertonbnascimento@gmail.com
 
